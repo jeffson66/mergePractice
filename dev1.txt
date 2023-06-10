@@ -1,2 +1,6 @@
 dev
+<<<<<<< HEAD
 dude
+=======
+haha
+>>>>>>> dev
